@@ -4,4 +4,4 @@ semana 1: exercícios de percorrer dados em formato .json, usando iteração ani
 
 semana 2: exercícios de transformação e armazenamento de dados em objetos com as funções map, filter e list comprehension
 
-semana 3: exercício de acessar, ler e armazenar em cache dados de apis 
+semana 3: exercício básico de acessar, ler e armazenar em cache dados de apis 
